@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevCluster</string>
+    <string name="app_subtitle">Donanım ve sunucu kaynakları</string>
+    <string name="spent_label">Harcanan ödenek</string>
+    <string name="amount_units">%1$s birim</string>
+    <string name="allocation_hint">Bir karta dokunarak 1 adet donanım tahsis edin.</string>
+    <string name="search_label">Donanım ara</string>
+    <string name="search_placeholder">İsim veya kategori</string>
+    <string name="clear_search">Aramayı temizle</string>
+    <string name="category_label">Kategoriler</string>
+    <string name="all_categories">Tümü</string>
+    <string name="catalog_title">Donanım kataloğu</string>
+    <plurals name="result_count">
+        <item quantity="other">%1$d sonuç</item>
+    </plurals>
+    <plurals name="stock_count">
+        <item quantity="other">%1$d adet stokta</item>
+    </plurals>
+    <string name="out_of_stock">Stok tükendi</string>
+    <string name="allocate_action">1 adet tahsis et</string>
+    <string name="allocate_accessibility">%1$s için 1 adet tahsis et</string>
+    <string name="stock_accessibility">Kalan stok: %1$d</string>
+    <string name="empty_title">Donanım bulunamadı</string>
+    <string name="empty_description">Aramanıza ve seçili kategoriye uygun kaynak yok. Farklı bir arama deneyin veya filtreleri temizleyin.</string>
+    <string name="clear_filters">Filtreleri temizle</string>
+</resources>
